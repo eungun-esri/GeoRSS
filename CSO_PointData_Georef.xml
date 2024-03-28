@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:georss='http://www.georss.org/georss'>
+<channel>
+<title>GeoRSS Feed</title>
+<description>A GeoRSS feed generated from ArcGIS Online feature layer</description>
+<item>
+<title>Nuclear Information and Resource Service</title>
+<georss:point>4718131.263852134 -8573166.384838354</georss:point>
+</item>
+<item>
+<title>International Joint Commission (Great Lakes Regional Office)</title>
+<georss:point>5208967.235641976 -9243950.574367769</georss:point>
+</item>
+<item>
+<title>Alliance for the Great Lakes </title>
+<georss:point>5143739.082466696 -9754365.819667099</georss:point>
+</item>
+<item>
+<title>International Institute of Concern for Public Health</title>
+<georss:point>5426931.41450104 -8825072.831940383</georss:point>
+</item>
+<item>
+<title>Aamjiwnaang First Nation</title>
+<georss:point>5303369.457634796 -9174577.439677002</georss:point>
+</item>
+<item>
+<title>Aboriginal People of Wabigoon</title>
+<georss:point>6411539.442751034 -10311935.862785006</georss:point>
+</item>
+<item>
+<title>Association des Francophones du Nord-Ouest de l'Ontario</title>
+<georss:point>6179809.393171564 -9931942.108771821</georss:point>
+</item>
+<item>
+<title>ACAP Saint John</title>
+<georss:point>5665358.106061065 -7353119.285924498</georss:point>
+</item>
+<item>
+<title>Anishinabek Employment and Training Services</title>
+<georss:point>6179734.059912982 -9932294.286459979</georss:point>
+</item>
+<item>
+<title>Boys & Girls Club Thunder Bay</title>
+<georss:point>6180932.817884478 -9935985.900037777</georss:point>
+</item>
+<item>
+<title>Biigtigong Nishnaabeg</title>
+<georss:point>6167776.36394508 -9969544.17933339</georss:point>
+</item>
+<item>
+<title>Association des Riverains et Ami-es du Richelieu</title>
+<georss:point>5730947.59901239 -8147083.801622422</georss:point>
+</item>
+<item>
+<title>Centre Francophone de Thunder Bay</title>
+<georss:point>6179797.936685297 -9931949.003678441</georss:point>
+</item>
+<item>
+<title>Chapleau Cree First Nation</title>
+<georss:point>6021769.861553181 -9291766.442314513</georss:point>
+</item>
+<item>
+<title>Citizens Against Radioactive Neighbourhoods</title>
+<georss:point>5513380.231857648 -8718526.71156149</georss:point>
+</item>
+<item>
+<title>Canadian Parks and Wilderness Society - Ottawa Valley Chapter</title>
+<georss:point>5691245.641822816 -8430576.915456735</georss:point>
+</item>
+<item>
+<title>Concerned Citizens of Hornepayne</title>
+<georss:point>6311084.201665739 -9436672.680359416</georss:point>
+</item>
+<item>
+<title>City of Pickering Sustainability Department</title>
+<georss:point>5440346.142972611 -8803564.131552482</georss:point>
+</item>
+<item>
+<title>Clean North</title>
+<georss:point>5862081.991398238 -9387210.407385238</georss:point>
+</item>
+<item>
+<title>Club Culturel Francophone de Thunder Bay</title>
+<georss:point>6179809.393171564 -9931942.108771821</georss:point>
+</item>
+<item>
+<title>Couchiching Conservancy</title>
+<georss:point>5564162.592467293 -8847376.442102868</georss:point>
+</item>
+<item>
+<title>Constance Lake First Nation</title>
+<georss:point>6444618.719783209 -9444778.453275366</georss:point>
+</item>
+<item>
+<title>Eagle Lake First Nation</title>
+<georss:point>6404357.163872648 -10366356.668335384</georss:point>
+</item>
+<item>
+<title>Evergreen A United Neighbourhood</title>
+<georss:point>6172274.616660073 -9934035.141622577</georss:point>
+</item>
+<item>
+<title>Earthcare Thunder Bay</title>
+<georss:point>6170902.412912349 -9935044.143936157</georss:point>
+</item>
+<item>
+<title>Fort William BIA</title>
+<georss:point>6170975.666024556 -9934864.472162949</georss:point>
+</item>
+<item>
+<title>Fossil Free Lakehead</title>
+<georss:point>6170606.079389556 -9934826.288464407</georss:point>
+</item>
+<item>
+<title>Fredericton Fish and Game Association</title>
+<georss:point>5777632.888897731 -7417720.564813876</georss:point>
+</item>
+</channel>
+</rss>
