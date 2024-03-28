@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:georss='http://www.georss.org/georss'>
+<channel>
+<title>GeoRSS Feed</title>
+<description>A GeoRSS feed generated from ArcGIS Online feature layer</description>
+<item>
+<title>Ottawa West Service Canada Centre and Passport Services</title>
+<georss:point>5679552.6774 -8427276.9203</georss:point>
+</item>
+<item>
+<title>Ottawa East Service Canada Centre and Passport Services</title>
+<georss:point>5697173.643100001 -8406323.2</georss:point>
+</item>
+<item>
+<title>Carleton Place Service Canada Centre</title>
+<georss:point>5642981.6723000035 -8476011.6654</georss:point>
+</item>
+</channel>
+</rss>
