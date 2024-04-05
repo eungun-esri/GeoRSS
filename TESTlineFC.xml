@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:georss='http://www.georss.org/georss'>
+<title>GeoRSS Feed</title>
+<subtitle>A GeoRSS feed generated from ArcGIS Online feature layer</subtitle>
+<entry>
+<title>Carling Ave</title>
+<summary><b>GlobalID=</b>1
+This is a second summary</summary>
+<georss:line>45.38529176600008 -75.73590516199994; 45.38671696100005 -75.73263201199995</georss:line>
+</entry>
+<entry>
+<title>Marivale Road</title>
+<summary><b>GlobalID=</b>2
+This is a second summary</summary>
+<georss:line>45.38671696100005 -75.73263201199995; 45.38633567800008 -75.73224724499994; 45.38609876400005 -75.73214182899994; 45.38510297000005 -75.73235265999995</georss:line>
+</entry>
+<entry>
+<title>Thames Street</title>
+<summary><b>GlobalID=</b>3
+This is a second summary</summary>
+<georss:line>45.38510297000005 -75.73235265999995; 45.382586340000046 -75.73828656299997</georss:line>
+</entry>
+</feed>
