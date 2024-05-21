@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:georss='http://www.georss.org/georss'>
+<title>GeoRSS Feed</title>
+<subtitle>A GeoRSS feed generated from ArcGIS Online feature layer</subtitle>
+<entry>
+<title>Thames Street</title>
+<summary>GlobalID=attributes
+This is a second summary</summary>
+<georss:line>45.385102970248376 -75.73235266010944; 45.38258634030765 -75.73828656256705</georss:line>
+</entry>
+</feed>
